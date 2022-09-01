@@ -4,4 +4,5 @@ node_modules
 
 src/**/*.db
 *.lock
+bundle
 *-lock.json
